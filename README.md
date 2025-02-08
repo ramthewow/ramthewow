@@ -1,5 +1,8 @@
 ![Header](./github-header-image.png)
 
+## 📄 My CV:
+[![Download CV](https://img.shields.io/badge/Download%20CV-%2300C4CC.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1DlnjS58rDccM-WBaxQKs8n3C-A9T_On0/view?usp=sharing)
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ram.menon22@st.niituniversity.in)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ram-menon-3ba6832a9) 
 
